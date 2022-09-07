@@ -1,0 +1,22 @@
+/* Backend Admin login Template*/
+.login-wrapper .mb-4{
+    background: maroon;
+    color: ghostwhite;
+    padding: 10px 20px;
+   
+}
+.login-wrapper .mb-4 ul{
+    padding: 0;
+    margin: 0;
+
+}
+.login-wrapper .mb-4 li{
+    text-align: center;
+ 
+}
+.password-wrapper .mb-4{
+    background: #eee;
+    color: #333;
+    padding: 10px 20px;
+
+}
